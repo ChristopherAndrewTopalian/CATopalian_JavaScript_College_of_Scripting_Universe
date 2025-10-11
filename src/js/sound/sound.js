@@ -67,8 +67,8 @@ function clickSound2()
     playTone(
         245,     // frequency
         200,     // duration
-        'since',  // waveType
-        0.01,      // volume
+        'sine',  // waveType
+        0.4,      // volume
         0,       // detune
         0.1,      // attackTime
         0.2,      // releaseTime
