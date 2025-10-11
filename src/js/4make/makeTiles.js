@@ -30,7 +30,7 @@ function makeTiles(whichArray)
 
     // fade-in transition
     theTitle.style.opacity = 0;
-    theTitle.style.transition = "opacity 1s ease-in-out, text-shadow 1s ease-in-out";
+    theTitle.style.transition = "opacity 3s ease-in-out, text-shadow 1s ease-in-out";
 
     // fade in after a moment
     setTimeout(function()
