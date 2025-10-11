@@ -5,6 +5,8 @@ A JavaScript app that displays a grid of images that are links to many useful Ja
 
 Video: https://www.youtube.com/watch?v=LJYrXyXA0Yo
 
+Use App: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_College_of_Scripting_Universe/CATopalian_JavaScript_College_of_Scripting_Universe.html
+
 ![001](src/media/textures/screenshots/CATopalian_JavaScript_College_of_Scripting_Universe_001.PNG)
 
 ![002](src/media/textures/screenshots/CATopalian_JavaScript_College_of_Scripting_Universe_002.PNG)
