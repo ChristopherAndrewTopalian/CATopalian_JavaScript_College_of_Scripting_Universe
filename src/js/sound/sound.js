@@ -41,7 +41,7 @@ function hoverSound()
         100,     // duration
         'sine',  // waveType
         0.02,      // volume
-        0,       // detune
+        0.0,       // detune
         0.01,      // attackTime
         0.01,      // releaseTime
         0.0      // panValue -0.5 is left
@@ -51,13 +51,13 @@ function hoverSound()
 function clickSound()
 {
     playTone(
-        100,     // frequency
-        300,     // duration
+        400,     // frequency
+        500,     // duration
         'sine',  // waveType
-        0.1,      // volume
+        0.04,      // volume
         0,       // detune
-        1.4,      // attackTime
-        7.0,      // releaseTime
+        0.1,      // attackTime
+        0.1,      // releaseTime
         0.0      // panValue -0.5 is left
     );
 }
@@ -69,64 +69,8 @@ function clickSound2()
         200,     // duration
         'sine',  // waveType
         0.4,      // volume
-        0,       // detune
+        0.0,       // detune
         0.1,      // attackTime
-        0.2,      // releaseTime
-        0.0      // panValue -0.5 is left
-    );
-}
-
-function slideSound()
-{
-    playTone(
-        300,     // frequency
-        500,     // duration
-        'triangle',  // waveType
-        0.2,      // volume
-        500,       // detune
-        0.2,      // attackTime
-        0.3,      // releaseTime
-        -0.5      // panValue -0.5 is left
-    );
-}
-
-function slideSound2()
-{
-    playTone(
-        400,     // frequency
-        500,     // duration
-        'triangle',  // waveType
-        0.2,      // volume
-        500,       // detune
-        0.2,      // attackTime
-        0.3,      // releaseTime
-        -0.5      // panValue -0.5 is left
-    );
-}
-
-function collisionSound1()
-{
-    playTone(
-        600,     // frequency
-        300,     // duration
-        'sine',  // waveType
-        0.2,      // volume
-        0,       // detune
-        0.1,      // attackTime
-        0.3,      // releaseTime
-        0.0      // panValue -0.5 is left
-    );
-}
-
-function inputSound()
-{
-    playTone(
-        400,     // frequency
-        100,     // duration
-        'sine',  // waveType
-        0.02,      // volume
-        0,       // detune
-        0.05,      // attackTime
         0.2,      // releaseTime
         0.0      // panValue -0.5 is left
     );
