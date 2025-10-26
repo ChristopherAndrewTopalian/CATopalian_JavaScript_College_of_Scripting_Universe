@@ -5,6 +5,16 @@
 // Open Objects = Ctrl + K  Ctrl + J
 
 let content = [
+// CATopalian JavaScript BabylonJS College of Scripting
+{
+    name: "CATopalian JavaScript BabylonJS College of Scripting",
+    appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_BabylonJS_College_of_Scripting/CATopalian_JavaScript_BabylonJS_College_of_Scripting/CATopalian_JavaScript_BabylonJS_College_of_Scripting.html",
+    codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_BabylonJS_College_of_Scripting',
+    textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_BabyonJS_College_of_Scripting_001.PNG',
+    // videoURL: '',
+    description: "The 3D College of Scripting Music & Science"
+},
+
 // CATopalian JavaScript Guitar
 {
     name: "CATopalian JavaScript Guitar",
