@@ -24,7 +24,7 @@ Use App: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Colle
 
 Happy Scripting :-)
 
-//----//  
+---
 
 // Dedicated to God the Father  
 // All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026  
